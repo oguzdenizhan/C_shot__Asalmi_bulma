@@ -1,0 +1,7 @@
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\asal_bulma\bin\Debug\asal_bulma.exe.config
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\asal_bulma\bin\Debug\asal_bulma.exe
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\asal_bulma\bin\Debug\asal_bulma.pdb
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\asal_bulma\obj\Debug\asal_bulma.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\asal_bulma\obj\Debug\asal_bulma.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\asal_bulma\obj\Debug\asal_bulma.exe
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\asal_bulma\obj\Debug\asal_bulma.pdb
